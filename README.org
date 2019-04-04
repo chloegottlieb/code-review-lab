@@ -1,6 +1,6 @@
 * Please fill out this section:
-** Name: 
-** GitHub username:
+** Name: Chloe Gottlieb
+** GitHub username: chloegottlieb
 
 * Lab 07
 
